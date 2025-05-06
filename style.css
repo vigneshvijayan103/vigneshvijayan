@@ -1,0 +1,57 @@
+
+html {
+  scroll-behavior:smooth;
+}
+
+*{
+    background-color: rgb(50, 49, 49);
+}
+
+.main-navbar{
+    background-color: rgb(50, 49, 49);
+   
+}
+.btn-outline-dark:hover {
+    border-color: white;
+    color: white;
+  }
+
+  .navbar-toggler-icon {
+    background-color: white; 
+  }
+  .navbar-toggler-icon:hover {
+    background-color: #ff6347;  
+  }
+
+  .profile-picture{
+    color: white;
+  }
+  #linkedin-icon{
+    color: #ffffff;
+
+  }
+  #linkedin-icon:hover {
+    color:rgb(10, 102, 194)
+  }
+  #github-icon{
+    color: white;
+  }
+  #github-icon:hover{
+    color:rgb(24, 23, 23);
+  }
+  #facebook-icon{
+    color: white;
+  }
+  #facebook-icon:hover {
+    color: #084a91;
+  }
+  #instagram-icon{
+    color: white;
+  }
+  #instagram-icon:hover{
+    color:#E1306C;
+  }
+.text-color{
+  color: #ff6347;
+}
+
